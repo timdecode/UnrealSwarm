@@ -22,4 +22,5 @@ The BoidActor has a few other components:
 * [Unreal Engine Documentation Hub](https://docs.unrealengine.com/latest/INT/index.html)
 * [Get Started with UE4](https://docs.unrealengine.com/latest/INT/GettingStarted/index.html)
 * [Blueprints Visual Scripting](https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted/index.html)
-* [Unreal Engine 4 Beginner Tutorial Series - Virtus on Youtube](https://www.youtube.com/watch?v=1M3S3eiJK5I): I haven't watched it personally, but it looks like a comprehensive video introduction to Unreal. However, there are tons of other tutorial out there.
+* [Unreal's Video Tutorials](https://docs.unrealengine.com/latest/INT/Videos/) Videos are a good way to learn workflows outside of the written documentation.
+* [Unreal Wiki](https://wiki.unrealengine.com/Main_Page) The Unreal wiki also has important documentation that is not covered directly by Epic's engineers.
