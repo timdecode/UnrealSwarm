@@ -24,3 +24,7 @@ The BoidActor has a few other components:
 * [Blueprints Visual Scripting](https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted/index.html)
 * [Unreal's Video Tutorials](https://docs.unrealengine.com/latest/INT/Videos/) Videos are a good way to learn workflows outside of the written documentation.
 * [Unreal Wiki](https://wiki.unrealengine.com/Main_Page) The Unreal wiki also has important documentation that is not covered directly by Epic's engineers.
+
+# License and Copyright
+
+The textures `T_Plains_Terrain_Floors01_D.uasset` and `T_Plains_Terrain_Floors01_N.uasset` are from Epic's [Ininity Blade Grass Lands](https://www.unrealengine.com/marketplace/infinity-blade-plain-lands) under the Unreal Engine EULA. 
